@@ -6,7 +6,7 @@ import guy3 from "@/assets/guy3.svg";
 
 export default function Home() {
   return (
-    <main className="flex h-[92vh] min-h-[92vh] flex-col items-center p-24">
+    <main className="flex min-h-[92vh] flex-col items-center p-24">
       <h1 className="text-6xl font-black">Unlock Your Financial Potential:</h1>
       <h1 className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-6xl font-black text-transparent">
         Empower Your Dreams
